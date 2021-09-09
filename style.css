@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(59, 200, 224, 0.856);
+    font-size: 20px;
+}
+img{
+    border-radius: 20px;
+    height: 500px;
+    width: 900px;
+}
+
